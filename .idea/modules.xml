@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Chap01/Chap01.iml" filepath="$PROJECT_DIR$/Chap01/Chap01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chap02/Chap02.iml" filepath="$PROJECT_DIR$/Chap02/Chap02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chap03/Chap03.iml" filepath="$PROJECT_DIR$/Chap03/Chap03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chap04/Chap04.iml" filepath="$PROJECT_DIR$/Chap04/Chap04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chap05/Chap05.iml" filepath="$PROJECT_DIR$/Chap05/Chap05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chap06/Chap06.iml" filepath="$PROJECT_DIR$/Chap06/Chap06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chap07/Chap07.iml" filepath="$PROJECT_DIR$/Chap07/Chap07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chap08/Chap08.iml" filepath="$PROJECT_DIR$/Chap08/Chap08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chap10/Chap10.iml" filepath="$PROJECT_DIR$/Chap10/Chap10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chap11/Chap11.iml" filepath="$PROJECT_DIR$/Chap11/Chap11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chap12/Chap12.iml" filepath="$PROJECT_DIR$/Chap12/Chap12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chap13/Chap13.iml" filepath="$PROJECT_DIR$/Chap13/Chap13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chap14/Chap14.iml" filepath="$PROJECT_DIR$/Chap14/Chap14.iml" />
+    </modules>
+  </component>
+</project>
