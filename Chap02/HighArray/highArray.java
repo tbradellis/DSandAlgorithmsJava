@@ -31,6 +31,32 @@ class HighArray
       nElems++;                      // increment size
       }
    //-----------------------------------------------------------
+
+   //
+
+   public long removeMax(){
+       if(a == null) {
+           return -1;
+       }
+       long max = 0;
+       for(int i =0 ; i <nElems; i++){
+           max = (a[i] > max) ? a[i] : max;
+       }
+
+       delete(max);
+       return max;
+   }
+
+   public long getMax(){
+      if(a == null) {
+         return -1;
+      }
+      long max = 0;
+      for(int i =0 ; i <nElems; i++){
+           max = (a[i] > max) ? a[i] : max;
+      }
+      return max;
+   }
    public boolean delete(long value)
       {
       int j;
@@ -43,32 +69,34 @@ class HighArray
          {
          for(int k=j; k<nElems; k++) // move higher ones down
             a[k] = a[k+1];
-         nElems--;                   // decrement size
+         nElems--;
          return true;
          }
-      }  // end delete()
-   //-----------------------------------------------------------
-   public void display()             // displays array contents
+      }
+
+
+   public void display()
       {
-      for(int j=0; j<nElems; j++)       // for each element,
-         System.out.print(a[j] + " ");  // display it
+      for(int j=0; j<nElems; j++)
+         System.out.print(a[j] + " ");
       System.out.println("");
       }
-   //-----------------------------------------------------------
-   }  // end class HighArray
-////////////////////////////////////////////////////////////////
+   }
+
+
 class HighArrayApp
    {
    public static void main(String[] args)
       {
-      int maxSize = 100;            // array size
-      HighArray arr;                // reference to array
-      arr = new HighArray(maxSize); // create the array
+      int maxSize = 100;
+      HighArray arr;
+      arr = new HighArray(maxSize);
 
-      arr.insert(77);               // insert 10 items
+      arr.insert(77);
       arr.insert(99);
       arr.insert(44);
       arr.insert(55);
+      arr.insert(00);
       arr.insert(22);
       arr.insert(88);
       arr.insert(11);
@@ -76,18 +104,41 @@ class HighArrayApp
       arr.insert(66);
       arr.insert(33);
 
-      arr.display();                // display items
+      arr.display();
+      long[] test = new long[maxSize];
+      int i = 0;
+      do{
+          test[i] = arr.removeMax();
+          ++i;
 
-      int searchKey = 35;           // search for item
+      }while(arr.getMax() != -1 && arr.getMax() != 0);
+
+      for(long elem : test){
+          System.out.print(elem + " ");
+          if(elem == 0){
+              System.out.print("0...n");
+              break;
+          }
+
+      }
+      System.out.println("");
+      System.out.println("test long from remove: ");
+      HighArray sortedArray = new HighArray(maxSize);
+      sortedArray.display();
+      System.out.println(arr.getMax());
+      System.out.println(arr.removeMax());
+      System.out.println(arr.getMax());
+
+
+      int searchKey = 35;
       if( arr.find(searchKey) )
          System.out.println("Found " + searchKey);
       else
          System.out.println("Can't find " + searchKey);
 
-      arr.delete(00);               // delete 3 items
+      arr.delete(00);
       arr.delete(55);
       arr.delete(99);
 
-      arr.display();                // display items again
-      }  // end main()
-   }  // end class HighArrayApp
+      }
+   }
