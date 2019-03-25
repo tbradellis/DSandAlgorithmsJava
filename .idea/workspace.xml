@@ -2,17 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d813049e-c616-44cf-9b65-ec351f3cbb44" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Chap01/Bank/BankAccount.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chap01/Bank/BankApp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chap02/Array/ArrayApp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chap02/ClassData/ClassDataApp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chap02/ClassData/ClassDataArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chap02/ClassData/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chap02/HighArray/HighArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chap02/HighArray/HighArrayApp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chap02/HighArray/highArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chap02/HighArray/highArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chap02/OrderedArray/OrdArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chap02/OrderedArray/OrderedApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chap02/OrderedArray/orderedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chap02/OrderedArray/orderedArray.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -32,41 +23,72 @@
     <session id="296436433">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.1" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="7" />
-          <entry key="java" value="5" />
+          <entry key="java" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="7" />
-          <entry key="JAVA" value="5" />
+          <entry key="JAVA" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="1288" />
+          <entry key="java" value="1352" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1288" />
+          <entry key="JAVA" value="1352" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Chap02/HighArray/highArray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="253">
-              <caret line="117" column="20" lean-forward="true" selection-start-line="117" selection-start-column="20" selection-end-line="117" selection-end-column="20" />
+            <state relative-caret-position="2832">
+              <caret line="118" column="36" selection-start-line="118" selection-start-column="36" selection-end-line="118" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Chap02/OrderedArray/orderedArray.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1004">
+              <caret line="58" column="22" lean-forward="true" selection-start-line="58" selection-end-line="59" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chap06/binarySearch/binarySearch.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1128">
+              <caret line="50" column="5" selection-start-line="50" selection-start-column="5" selection-end-line="50" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chap02/Array/array.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="13" selection-start-column="13" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -94,6 +116,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Chap02/HighArray/highArray.java" />
+        <option value="$PROJECT_DIR$/Chap02/OrderedArray/orderedArray.java" />
       </list>
     </option>
   </component>
@@ -104,8 +127,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="width" value="1280" />
-    <option name="height" value="800" />
+    <option name="width" value="1680" />
+    <option name="height" value="1050" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -204,7 +227,7 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="Scope" currentSubView="Scope 'Production'; set:Production; class com.intellij.psi.search.scope.ProjectProductionScope" proportions="" version="1">
-      <autoscrollFromSource ProjectPane="true" />
+      <autoscrollFromSource Scope="true" ProjectPane="true" />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
@@ -317,13 +340,54 @@
               <item name="Chap02" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="HighArray" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="highArray.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-              <item name="HighArray" type="1a9f42e2:ClassTreeNode" />
+              <item name="HighArrayApp" type="1a9f42e2:ClassTreeNode" />
             </path>
             <path>
               <item name="DSandAlgorithmsJava" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
               <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
               <item name="Chap02" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="OrderedArray" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="DSandAlgorithmsJava" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="Chap02" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="OrderedArray" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="orderedArray.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="DSandAlgorithmsJava" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="Chap02" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="OrderedArray" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="orderedArray.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+              <item name="OrdArray" type="1a9f42e2:ClassTreeNode" />
+            </path>
+            <path>
+              <item name="DSandAlgorithmsJava" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="Chap06" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="DSandAlgorithmsJava" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="Chap06" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="binarySearch" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="DSandAlgorithmsJava" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="Chap06" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="binarySearch" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="binarySearch.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="DSandAlgorithmsJava" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="Chap06" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="binarySearch" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="binarySearch.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+              <item name="ordArray" type="1a9f42e2:ClassTreeNode" />
             </path>
           </expand>
           <select />
@@ -334,7 +398,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552867806150" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552916271234" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Libraries" />
@@ -427,51 +491,54 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1552828156266</updated>
-      <workItem from="1552828158320" duration="7619000" />
+      <workItem from="1552828158320" duration="8712000" />
+      <workItem from="1552916979848" duration="2249000" />
+      <workItem from="1553087910242" duration="1234000" />
+      <workItem from="1553091136426" duration="790000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7619000" />
+    <option name="totallyTimeSpent" value="12985000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Designer" />
-      <window_info id="Image Layers" />
-      <window_info id="UI Designer" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info id="Capture Tool" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24959612" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17124394" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="CheckStyle" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" />
-      <window_info anchor="bottom" id="Run with VisualVM" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Debug with VisualVM" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.30958903" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.30958903" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Maven Projects" />
-      <window_info anchor="right" id="ASM" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="SciView" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.21369863" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="CheckStyle" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" />
+      <window_info anchor="bottom" id="Run with VisualVM" order="12" />
+      <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="14" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Debug with VisualVM" order="15" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" />
+      <window_info anchor="right" id="ASM" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info anchor="right" id="SciView" order="10" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -481,24 +548,12 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Chap01/Bank/BankApp.class">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chap02/Array/ArrayApp.class">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chap02/ClassData/ClassDataArray.class">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chap02/ClassData/Person.class">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chap02/OrderedArray/OrderedApp.class">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chap02/HighArray/HighArray.class">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Chap01/Bank/BankApp.class" />
+    <entry file="file://$PROJECT_DIR$/Chap02/Array/ArrayApp.class" />
+    <entry file="file://$PROJECT_DIR$/Chap02/ClassData/ClassDataArray.class" />
+    <entry file="file://$PROJECT_DIR$/Chap02/ClassData/Person.class" />
+    <entry file="file://$PROJECT_DIR$/Chap02/OrderedArray/OrderedApp.class" />
+    <entry file="file://$PROJECT_DIR$/Chap02/HighArray/HighArray.class" />
     <entry file="file://$PROJECT_DIR$/Chap02/ClassData/classDataArray.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="127">
@@ -506,19 +561,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/classDataArray.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chap02/HighArray/HighArrayApp.class">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chap02/Array/array.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-935">
-          <caret column="13" lean-forward="true" selection-start-column="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/Desktop/classDataArray.java" />
+    <entry file="file://$PROJECT_DIR$/Chap02/HighArray/HighArrayApp.class" />
     <entry file="file://$PROJECT_DIR$/Chap01/Bank/bank.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
@@ -528,8 +572,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Chap02/HighArray/highArray.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="117" column="20" lean-forward="true" selection-start-line="117" selection-start-column="20" selection-end-line="117" selection-end-column="20" />
+        <state relative-caret-position="2832">
+          <caret line="118" column="36" selection-start-line="118" selection-start-column="36" selection-end-line="118" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chap06/binarySearch/binarySearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1128">
+          <caret line="50" column="5" selection-start-line="50" selection-start-column="5" selection-end-line="50" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chap02/Array/array.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chap02/OrderedArray/orderedArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1004">
+          <caret line="58" column="22" lean-forward="true" selection-start-line="58" selection-end-line="59" />
         </state>
       </provider>
     </entry>
